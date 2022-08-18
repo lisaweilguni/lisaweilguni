@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lisaweilguni
+- 👋 Hi, I’m Lisa based in Vienna, Austria
 - 👩‍💻 I’m interested in front end web development
 - 🌱 I’m currently learning Javascript
 - ✨ I’m looking for learning opportunities
