@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lisa based in Vienna, Austria
 - 👩‍💻 I’m interested in front end web development
 - 🌱 I’m currently learning Javascript
-- ✨ I’m looking for learning opportunities
+- ✨ I’m looking for a career change into tech
 - 📫 Contact me on GitHub or on [LinkedIn](https://www.linkedin.com/in/lisa-weilguni-831800bb/)
 
