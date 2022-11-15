@@ -1,10 +1,10 @@
-## Hi 👋, I'm Lisa!
+## Hi 👋 , I'm Lisa!
 I'm a curious and open-minded **web developer** with teaching experience based in Vienna, Austria.
 
-- 👩🏻‍💻 **My latest project** is [Schoolfinder](https://github.com/lisaweilguni/schoolfinder), a React and Next.js application that helps students find the right high school.
 - 🪴 I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PosgreSQL**.
+- 👩‍💻 **My latest project** is [Schoolfinder](https://github.com/lisaweilguni/schoolfinder), a React and Next.js application that helps students find the right high school.
 - 💡 Always learning new technologies and growing my tech stack.
-- 🎨 Passionate about minimalistic designs, beautiful layouts, nice typography and calligraphy.
+- 🎨 Passionate about minimalistic designs, beautiful layouts and calligraphy.
 - 🚴‍♀️ Always up for (gravel) cycling 
 
 ### tech stack & other skills
