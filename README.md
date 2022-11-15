@@ -1,11 +1,13 @@
 ## Hi 👋, I'm Lisa!
-**Web developer** based in Vienna, Austria.
+I'm a curious and open-minded **web developer** with teaching experience based in Vienna, Austria.
 
 - 👩🏻‍💻 **My latest project** is [Schoolfinder](https://github.com/lisaweilguni/schoolfinder), a React and Next.js application that helps students find the right high school.
-- 🔧 I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PosgreSQL**, but 🧠 I am always learning new technologies and growing my tech stack.
-- 🎨 Passionate about typography and calligraphy.
+- 🪴 I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PosgreSQL**.
+- 💡 Always learning new technologies and growing my tech stack.
+- 🎨 Passionate about minimalistic designs, beautiful layouts, nice typography and calligraphy.
+- 🚴‍♀️ Always up for (gravel) cycling 
 
-### Languages and Tools:
+### tech stack & other skills
 
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -23,7 +25,7 @@
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <br/>
 
-### Connect with me:
+### connect with me
   <a href="https://www.linkedin.com/in/lisa-weilguni/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lisa weilguni linkedin" height="28px" width="28px" />
   </a>
