@@ -1,5 +1,5 @@
 ## Hi 👋 , I'm Lisa!
-I'm a curious and open-minded **web developer** with teaching experience based in Vienna, Austria. View my portfolio [here](https://lisaweilguni.netlify.app/).
+I'm a **frontend developer** with teaching experience based in Vienna, Austria. View my portfolio [here](https://lisaweilguni.netlify.app/).
 
 - 🪴 I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PostgreSQL**.
 - 👩‍💻 **My latest project** is [Schoolfinder](https://github.com/lisaweilguni/schoolfinder), a React and Next.js application that helps students find the right high school.
