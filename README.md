@@ -1,5 +1,5 @@
 ## Hi 👋 , I'm Lisa!
-I'm a **frontend developer** with teaching experience based in Vienna, Austria. View my portfolio [here](https://lisaweilguni.netlify.app/).
+**Frontend developer** with teaching experience based in Vienna, Austria.
 
 - 🪴 I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PostgreSQL**.
 - 💡 Always learning new technologies and growing my tech stack.
