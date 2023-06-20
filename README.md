@@ -1,7 +1,7 @@
 ## Hi 👋 , I'm Lisa!
 **Frontend developer** with teaching experience based in Vienna, Austria.
 
-- 🪴 I'm currently developing with JavaScript, TypeScript, React, React Native and Next.js.
+- 🌞 I'm currently developing with JavaScript, TypeScript, React, React Native and Next.js.
 - 💡 Always learning new technologies and growing my tech stack.
 - 🎨 Passionate about minimalistic designs, beautiful layouts and calligraphy.
 - 🚴‍♀️ Always up for (gravel) cycling 
